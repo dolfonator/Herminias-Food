@@ -10,7 +10,7 @@ owner's real, permission-cleared photos before any indexed go-live.
 
 | File | Used for | Source (Unsplash photo page) |
 |---|---|---|
-| `hero-buffet.jpg` | Hero background | unsplash.com/photos/dumplings-platter-SiwrpBnxDww |
+| `hero-buffet-lumpia-v3.jpg` | Hero background (live) | AI-assisted derivative edit of prior Unsplash hero (`hero-buffet.jpg`, unsplash.com/photos/dumplings-platter-SiwrpBnxDww) replacing the nearest front-left food with Filipino lumpia from a user-supplied reference; commercial clearance of the edited derivative is not established here |
 | `og-image.jpg` | OG/social preview (1200×630 crop of hero) | unsplash.com/photos/dumplings-platter-SiwrpBnxDww |
 | `about-buffet.jpg` | About section | unsplash.com/photos/a-buffet-with-many-different-types-of-food-on-it-Ri2dPW_kP0k |
 | `dish-banana-leaf.jpg` | Packages/menu section | unsplash.com/photos/variety-of-fried-dishes-on-banana-leaf-q4pns2LtGwk |
